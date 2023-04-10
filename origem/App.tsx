@@ -13,7 +13,7 @@ export default class App extends Component{
   render() {
     return (
       <View style={estilos.container}>
-        {/*<Simples texto='Rodrigo' /> 
+        {/*<Simples texto='Thiago />
          <Frag titulo="Cadastro" 
               subTitulo="Teda de Cadastro de Produto" /> 
          <ParImpar numero={9}  /> 8 
